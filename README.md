@@ -1,5 +1,5 @@
 # Jupyter Notebook Practice
-This is a simple exercise to practice jupyter notebook. First, we will install `jupyter notebook` and `pandas` using `Pip3`. We will then be reading in the file `Iris.csv` several different ways and looking at the data in the notebook. 
+This is a simple exercise to practice jupyter notebook. First, we will install `jupyter notebook`, and `seabron` and `pandas` using `Pip3`. We will then be reading in the file `Iris.csv` several different ways and looking at the data in the notebook. 
 
 Assignment: 
 - install the package `Seaborn` using `Anaconda` 
